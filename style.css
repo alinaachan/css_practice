@@ -49,6 +49,8 @@ div {
     margin-right: 50px;
     border-right: 5px solid #ffffff;
     border-top: 2px solid #ffffff;
+    border-left: 3px;
+    border-bottom: 3px;
 }
 .blue h2 {
     color: #C4C4C4;
@@ -62,6 +64,8 @@ div {
     margin-left: 50px;
     border-bottom: 2px solid #ffffff;
     border-left: 5px solid #ffffff;
+    border-left: 3px;
+    border-bottom: 3px;
 } 
 .yellow p {
     color: #707070;
@@ -72,6 +76,8 @@ div {
     margin-right: 50px;
     border-right: 5px solid #ffffff;
     border-top: 2px solid #ffffff;
+    border-left: 3px;
+    border-bottom: 3px;
 }
 footer {
     background: rgb(0,0,0);
@@ -84,4 +90,5 @@ footer p {
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
+    padding-left: 0px;
 }
